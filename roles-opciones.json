@@ -1,0 +1,7 @@
+[
+    { "value": 1, "text": "Administrador" },
+    { "value": 2, "text": "Alumno" },
+    { "value": 3, "text": "Profesor" },
+    { "value": 4, "text": "Secretaria" },
+    { "value": 5, "text": "Supervisor" }
+]
